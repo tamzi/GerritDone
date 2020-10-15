@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/yourUserName/YourProjectName">
-    <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/art/readmEmasterTemplatesAndroid.jpg" alt="Project Name" width=250 height=160>
+    <img src="#" alt="Project Name" width=250 height=160>
   </a>
   <h3 align="center">GerritDone</h3>
 
@@ -41,15 +41,6 @@ You can have multiple images like below.
 <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/1.jpg" width="200">
 <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2.jpg" width="200">
 <img src="https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3.jpg" width="200">
-
-##### Or combine 3 of them as:
-![3images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/3screens.jpg)
-
-##### Or combine 2 of them as:
-![2images](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/2In1Mix.jpg)
-
-##### Or have image with a spoiller explanation:
-![WithExplanations](https://raw.githubusercontent.com/tamzi/ReadMe-MasterTemplates/master/android/images/withexplanations.jpg)
 
 
 #### App Stores
